@@ -1,0 +1,17 @@
+# Pliki wynikowe i binarne
+*.hex
+*.OBJ
+*.LST
+*.MAP
+*.SBR
+*.plg
+
+# Pliki Keil uVision
+*.uvopt
+*.uvproj
+*.uvgui.*
+
+# Backupy i pliki tymczasowe
+*.bak
+*.lnp
+*.workspace
